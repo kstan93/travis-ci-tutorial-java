@@ -86,7 +86,8 @@ local.properties
 
 
 
-
+## IntelliJ ##
+*.idea
 
 
 
